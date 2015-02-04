@@ -140,7 +140,7 @@ if local:  # only import and set the theme if we're building docs locally
 else:
     rst_prolog = """
 .. |L| replace::
-
+    .
 """
 
 # otherwise, readthedocs.org uses their theme by default, so no need to specify it
@@ -168,7 +168,7 @@ else:
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-#html_logo = None
+html_logo = "media/AsesoriaLNLogo4.gif"
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
