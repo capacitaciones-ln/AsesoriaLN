@@ -1,10 +1,10 @@
 ASESORIA GERENCIAL LN
 =====================
 
-.. figure:: media/homo_vitruvio.jpg
+.. figure:: media/AsesoriaLNLogo2.jpg
 
-En la empresa Asesoría LN somos expertos en recursos humanos y en diferentes
-aspectos del desarollo
+En la empresa Asesoría gerencial LN somos expertos en recursos humanos y en
+diferentes aspectos del desarollo
 humano. Bridamos a empresas, instituciones o individuos, servicios y asesoría
 adaptados a sus necesidades.
 
@@ -25,6 +25,8 @@ Nuestra visión
 
 Estamos convencidos de que *el aumento de la productividad del trabajador
 se puede lograr a partir del mejoramiento personal de los trabajadores*.
+
+.. figure:: media/homo_vitruvio.jpg
 
 La productividad en las organizaciones es la base del desarrollo de toda
 actividad profesional. Dentro de este esquema, surgen dos vertientes. En la
