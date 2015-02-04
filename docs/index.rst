@@ -1,5 +1,5 @@
-ASESORIA LN
-============
+ASESORIA GERENCIAL LN
+=====================
 
 .. figure:: media/homo_vitruvio.jpg
 
