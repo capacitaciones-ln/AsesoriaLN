@@ -5,7 +5,7 @@ ASESORIA GERENCIAL LN
 
 En la empresa Asesoría gerencial LN somos expertos en recursos humanos y en
 diferentes aspectos del desarollo
-humano. Bridamos a empresas, instituciones o individuos, servicios y asesoría
+humano. Brindamos a empresas, instituciones o individuos, servicios y asesoría
 adaptados a sus necesidades.
 
 
@@ -16,7 +16,7 @@ Productividad integral para la evolución del ser humano
 
 .. Note::
 
-    Nuestro último taller, en el que asistieron un grupo de personas muy motivadas,
+    Nuestro último taller,sobre el tema de la autoestima, en el que asistieron un grupo de personas muy motivadas,
     fue realizado el 27 de enero de 2015 en la parroquia el recreo de
     Sabana Grande. Estamos preparando nuevos talleres.
 
