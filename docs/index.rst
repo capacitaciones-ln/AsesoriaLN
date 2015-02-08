@@ -2,8 +2,10 @@
     :align: center
     :width: 100%
 
-Asesoría Gerencial L.N es una firma personal  especializada en  capacitar en  Desarrollo Humano a  los trabajadores de las distintas Instituciones o Empresas privadas. Nuestros facilitadores gerenciales, están capacitados para detectar las necesidades de las empresas y diseñar la pedagogía adecuada para mejorar el desempeño laborar de los empleados. Se efectúa evaluación pre y post test, con la finalidad de que la organización esté informada de la situación de los trabajadores antes del taller y posterior al mismo.
-La intención del programa, es mejorar continuamente la productividad del personal y prepararlos hacia los bruscos cambios del mercado 
+Asesoría Gerencial L.N es una firma personal especializada en capacitar en Desarrollo Humano a los trabajadores de las distintas Instituciones o Empresas privadas. Nuestros facilitadores gerenciales, están capacitados para detectar
+las necesidades de las empresas y diseñar la pedagogía adecuada para mejorar el desempeño laborar de los empleados. 
+Se efectúa evaluación pre y post test, con la finalidad de que la organización esté informada de la situación de los trabajadores antes del taller y posterior al mismo.
+La intención del programa, es mejorar continuamente la productividad del personal y prepararlos hacia los bruscos cambios del mercado. 
 
 
 Talleres de desarrollo humano
