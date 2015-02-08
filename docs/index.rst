@@ -15,6 +15,7 @@ Talleres de desarrollo humano
 Productividad integral para la evolución del ser humano
 
 .. Novedades ::
+--------------
 
     Nuestro último taller,sobre el tema de la autoestima, en el que asistieron un grupo de personas muy motivadas,
     fue realizado el 27 de enero de 2015 en la parroquia el recreo de
