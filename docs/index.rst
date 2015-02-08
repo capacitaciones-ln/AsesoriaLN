@@ -1,7 +1,6 @@
-ASESORIA GERENCIAL LN
-=====================
-
-.. figure:: media/AsesoriaLNLogo2.jpg
+.. figure:: media/Baniere.jpg
+    :align: center
+    :width: 100%
 
 En la empresa Asesoría gerencial LN somos expertos en recursos humanos y en
 diferentes aspectos del desarollo
