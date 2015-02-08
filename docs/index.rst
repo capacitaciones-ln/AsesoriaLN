@@ -22,6 +22,11 @@ Novedades
     fue realizado el 27 de enero de 2015 en la parroquia el recreo de
     Sabana Grande. 
     Estamos preparando nuevos talleres!.
+    
+Misión
+------
+Formar a las personas para mejorar su desempeño profesional y contribuir con el éxito organizacional por medio de talleres teóricos prácticos 
+
 
 Nuestra visión
 --------------
