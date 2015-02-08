@@ -75,7 +75,11 @@ Talleres
 *   Autoestima,
 *   Proyecto de vida,
 *   Valores humanos,
-*   Manejo de grupos.
+*   Manejo de grupos,
+*   Equipo Efectivo de Desempeño,
+*   Motivación,
+*   Taller Oficina de Atención Ciudadana (OAC)
+
 
 Perfil de los Facilitadores
 ---------------------------
