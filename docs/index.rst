@@ -3,9 +3,9 @@
     :width: 100%
 
 Asesoría Gerencial L.N es una firma personal especializada en capacitar en Desarrollo Humano a los trabajadores de
-las distintas Instituciones o Empresas privadas. Nuestros facilitadores gerenciales, están capacitados para detectar
-las necesidades de las empresas y diseñar la pedagogía adecuada para mejorar el desempeño laborar de los empleados. 
-Se efectúa evaluación pre y post test, con la finalidad de que la organización esté informada de la situación de los trabajadores antes del taller y posterior al mismo.
+las distintas Instituciones o Empresas privadas. Nuestros facilitadores gerenciales, están praparados para detectar
+las necesidades de las empresas y diseñar la pedagogía adecuada para mejorar el desempeño laboral de los empleados. 
+Se efectúa una evaluación antes y después de los talleres, con la finalidad de informar la organización de la situación de los trabajadores antes y después del taller.
 La intención del programa, es mejorar continuamente la productividad del personal y prepararlos hacia los bruscos cambios del mercado. 
 
 
