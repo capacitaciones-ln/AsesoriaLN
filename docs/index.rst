@@ -25,7 +25,7 @@ Novedades
     
 Misión
 ------
-Formar a las personas para mejorar su desempeño profesional y contribuir con el éxito organizacional por medio de talleres teóricos prácticos 
+Formar a las personas para mejorar su desempeño profesional y contribuir con el éxito organizacional por medio de talleres teóricos prácticos. 
 
 
 Nuestra visión
@@ -76,6 +76,13 @@ Talleres
 *   Proyecto de vida,
 *   Valores humanos,
 *   Manejo de grupos.
+
+Perfil de los Facilitadores
+---------------------------
+Liliana Nieves. Lic en Trabajo Social graduada en la Universidad Central de Venezuela, especialista en Gerencia Empresarial en la  José María Vargas y en espera de defensa de tesis en el Magíster en Desarrollo Humano Universidad Simón Rodríguez. Experiencia en capacitación
+Luimary Cuicas. Lic en Psicología en la Universidad Central de Venezuela. Magister en Educación mención Salud en el Instituto Latinoamericano y Caribeño en Cuba .Experiencia en capacitación
+Susana Reti Lic en Educación en la Universidad Central de Venezuela y en espera de defensa de tesis en el Magíster en Desarrollo Humano Universidad Simón Rodríguez. Experiencia en capacitación
+
 
 Contacto
 --------
