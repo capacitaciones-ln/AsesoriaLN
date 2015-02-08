@@ -10,10 +10,7 @@ Se efectúa una evaluación antes y después de los talleres, con la finalidad d
 La intención del programa, es mejorar continuamente la productividad del personal y prepararlos hacia los bruscos cambios del mercado. 
 
 
-Talleres de desarrollo humano
------------------------------
-
-Productividad integral para la evolución del ser humano
+                Talleres de desarrollo humano :  Productividad integral para la evolución del ser humano
 
 Novedades
 ---------
