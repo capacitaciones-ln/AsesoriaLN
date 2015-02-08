@@ -79,9 +79,9 @@ Talleres
 
 Perfil de los Facilitadores
 ---------------------------
-* Liliana Nieves. Lic en Trabajo Social graduada en la Universidad Central de Venezuela, especialista en Gerencia Empresarial en la  José María Vargas y en espera de defensa de tesis en el Magíster en Desarrollo Humano Universidad Simón Rodríguez. Experiencia en capacitación
-* Luimary Cuicas. Lic en Psicología en la Universidad Central de Venezuela. Magister en Educación mención Salud en el Instituto Latinoamericano y Caribeño en Cuba .Experiencia en capacitación
-* Susana Reti Lic en Educación en la Universidad Central de Venezuela y en espera de defensa de tesis en el Magíster en Desarrollo Humano Universidad Simón Rodríguez. Experiencia en capacitación
+* Liliana Nieves. Lic en Trabajo Social graduada en la Universidad Central de Venezuela, especialista en Gerencia Empresarial en la  José María Vargas y en espera de defensa de tesis en el Magíster en Desarrollo Humano Universidad Simón Rodríguez. Experiencia en capacitación.
+* Luimary Cuicas. Lic en Psicología en la Universidad Central de Venezuela. Magister en Educación mención Salud en el Instituto Latinoamericano y Caribeño en Cuba. Experiencia en capacitación.
+* Susana Reti Lic en Educación en la Universidad Central de Venezuela y en espera de defensa de tesis en el Magíster en Desarrollo Humano Universidad Simón Rodríguez. Experiencia en capacitación.
 
 
 Contacto
