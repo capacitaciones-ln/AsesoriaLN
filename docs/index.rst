@@ -15,6 +15,8 @@ La intención del programa, es mejorar continuamente la productividad del person
 Novedades
 ---------
 
+    Siguenos en twitter, articulos, comentarios y más: @lhhiliana
+    
     Nuestro último taller, sobre el tema de la autoestima, en el que asistieron un grupo de personas muy motivadas,
     fue realizado el 27 de enero de 2015 en la parroquia el recreo de
     Sabana Grande. 
