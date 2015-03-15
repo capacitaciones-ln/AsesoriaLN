@@ -15,7 +15,14 @@ La intención del programa, es mejorar continuamente la productividad del person
 Novedades
 ---------
 
-    Siguenos en twitter, articulos, comentarios y más: @lhhiliana
+    Tenemos el placer de informarles de nuestro próximo taller : La autoestima
+    -------------------------------------------------------------------------
+Feche y hora : sábado  21 de mazo de 8.30 am a 1 pm 
+Lugar : Biblioteca Paul Harris, la California Norte 
+(Av Santiago de Leon ,Plaza Lino de Clemente), Caracas , Estado Miranda , Municipio Sucre, 
+Se contara con refrigerio
+Atención cupos limitados. Para hacer su reservación o para obtener más información por favor llamar al teléfono :  04142320307
+Siguenos en twitter, articulos, comentarios y más: @lhhiliana
     
     Nuestro último taller, sobre el tema de la autoestima, en el que asistieron un grupo de personas muy motivadas,
     fue realizado el 27 de enero de 2015 en la parroquia el recreo de
