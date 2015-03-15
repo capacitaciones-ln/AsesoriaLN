@@ -15,8 +15,8 @@ La intención del programa, es mejorar continuamente la productividad del person
 Novedades
 ---------
 
-    Tenemos el placer de informarles de nuestro próximo taller : 
-    La autoestima
+    Tenemos el placer de informarles de nuestro próximo taller : La autoestima
+    
     Fecha y hora : sábado  21 de mazo de 8.30 am a 1 pm
     Lugar : Biblioteca Paul Harris, la California Norte
     (Av Santiago de Leon ,Plaza Lino de Clemente), Caracas , Estado Miranda , Municipio Sucre.
